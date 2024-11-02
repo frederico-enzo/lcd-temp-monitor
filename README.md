@@ -1,4 +1,4 @@
-# lcd-temp-monitor  Criado July 10, 2022
+# lcd-temp-monitor   July 10, 2022
 
 ![LCD Temp Monitor](docs/Termômetro-digital_Sensor-Temperatura.png)
 
