@@ -1,6 +1,6 @@
 # lcd-temp-monitor  Criado July 10, 2022
 
-![LCD Temp Monitor](docs/Termômetro-digital_Sensor--Temperatura.png)
+![LCD Temp Monitor](docs/Termômetro-digital-Sensor-Temperatura.png)
 
 ## Descrição
 Este projeto demonstra a construção de um termômetro digital simples e eficaz, utilizando um microcontrolador Arduino e um sensor de temperatura. O dispositivo é capaz de medir a temperatura ambiente e exibir os valores em graus Celsius e Fahrenheit em um display LCD. Além disso, o sistema incorpora um sistema de alertas visuais, indicando condições de temperatura extremas através de LEDs.
